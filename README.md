@@ -13,8 +13,8 @@ Langsung aja, cara installnya pertama kamu download  	scapy-2.3.1.zip di reposit
 **cp scapy-2.3.1 /tmp; cd /tmp**      
 **python setup.py install**      
 (tungu sampai instalasi selesai)      
-Lalu install paket lain yang dibutuhkan (khususnya di os yang basisnya debian atau ubuntu):
-sudo apt-get install tcpdump graphviz imagemagick python-gnuplot python-crypto python-pyx
+Lalu install paket lain yang dibutuhkan (khususnya di os yang basisnya debian atau ubuntu):  
+**sudo apt-get install tcpdump graphviz imagemagick python-gnuplot python-crypto python-pyx**
 Untuk kegunaan paket di atas saya belum tau karena belum mencobanya. Untuk tutorialnya scapyguide1.pdf, mudah dipahami dan lebih fokus ke "learning by doing", dan untuk dokumentasinya scapydoc.pdf.  
 Thanks.  
 By nizarakbarmeilani  
