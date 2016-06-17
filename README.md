@@ -8,6 +8,7 @@ Langsung aja, cara installnya pertama kamu download  	scapy-2.3.1.zip di reposit
 sudo su
 (lalu masukkan password kalian)
 unzip scapy-2.3.1.zip
+
 cp scapy-2.3.1 /tmp; cd /tmp
 python setup.py install 
 (tungu sampai instalasi selesai)
