@@ -1,4 +1,5 @@
 ## scapy-nlnc  
+_This is not developed by me but developed by scapy by Secdev in www.secdev.org/projects/scapy/_
 Hei, yuk kita mulai pake scapy.  
 Apa itu scapy?  
 Jadi scapy itu suatu tool untuk membantu kita ngirim paket dari suatu protokol ke ip lain, memalsuin ip pengirim dari paket, menguntit trafik orang lain di jaringan dengan lebih mudah dan tentunya lebih terasa seninya daripada pake tool kayak wireshark.   
