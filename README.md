@@ -1,4 +1,4 @@
-# scapy-nlnc
+## scapy-nlnc
 Hei, yuk kita mulai pake scapy.
 Apa itu scapy?
 Jadi scapy itu suatu tool untuk membantu kita ngirim paket dari suatu protokol ke ip lain, memalsuin ip pengirim dari paket, menguntit trafik orang lain di jaringan dengan lebih mudah dan tentunya lebih terasa seninya daripada pake tool kayak wireshark. 
@@ -20,5 +20,3 @@ Untuk kegunaan paket di atas saya belum tau karena belum mencobanya. Untuk tutor
 Thanks.
 By nizarakbarmeilani
 Untuk lengkapnya, kalian bisa coba baca-baca di http://www.secdev.org/projects/scapy/.
-
-
