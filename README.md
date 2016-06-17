@@ -3,7 +3,7 @@ _This is not developed by me but developed by Secdev in www.secdev.org/projects/
 Hei, yuk kita mulai pake scapy.  
 Apa itu scapy?  
 Jadi scapy itu suatu tool untuk membantu kita ngirim paket dari suatu protokol ke ip lain, memalsuin ip pengirim dari paket, menguntit trafik orang lain di jaringan dengan lebih mudah dan tentunya lebih terasa seninya daripada pake tool kayak wireshark.  
-**Note:Ditambah lagi kelebihan scapy yang gak ada di tool lain yaitu dia bisa injeksi paket dari protokol seperti contohnya mengubah-ubah ICMP Type dan inilah salah satu sisi fleksibelnya.**
+**Note:Ditambah lagi kelebihan scapy yang gak ada di tool lain yaitu dia bisa injeksi paket dari protokol seperti contohnya mengubah-ubah ICMP Type dan inilah salah satu sisi fleksibelnya.**  
 Sebelumnya untuk memakai tool ini setidaknya kalian sudah install python. Kalo di laptopku aku pake  
 
 **Python 2.7.11+**   
